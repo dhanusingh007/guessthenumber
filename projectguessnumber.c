@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+//changed 
 int main()
 {
     int com, player,att=1;
